@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/647426d9c4ec366ad5b0f25a?variant=dark&roadmaps=frontend%2Cux-design%2Creact%2Clinux)](https://roadmap.sh)
+
 <!--
 **itsasarya/itsasarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
